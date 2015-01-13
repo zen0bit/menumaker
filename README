@@ -1,0 +1,23 @@
+
+
+Menu Maker
+==========
+
+Este es un repositorio con la ultima version de menu maker, pero con unos cambios personales solo para el entorno Openbox3:
+
+* Un sub Menu para la aplicacion oblogout con la opcion de apagar y reiniciar.
+
+
+La licencia de este programa se encuentra en el archivo COPYING 
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Menu Maker
+==========
+
+This is a repo with the last version of menumaker, but with a few personal changes only for the window manager OpenBox3.
+
+* A sub menu for the app oblogout, and two actions for shutdown and reboot.
+
+About the license you could find in the file COPYING.
