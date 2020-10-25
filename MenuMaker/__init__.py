@@ -48,6 +48,7 @@ terms = [
     (T.st, KwS("ST")),
     (T.alacritty, KwS("Alacritty")),
     (T.qterminal, KwS("QTerminal")),
+    (T.sakura, KwS("Sakura")),    
 ]
 
 
