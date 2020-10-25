@@ -14,3 +14,6 @@ David <doark@mail.com>
     Increased speed again by changing the positions of the import statements in
     share/menumaker/MenuMaker/CLI.py about line 218. Now anything that is not
     used is not imported.
+
+zenobit
+    Added sakura terminal emulator
