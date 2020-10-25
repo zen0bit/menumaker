@@ -5,7 +5,7 @@
 @c %**end of header
 
 @copying
-Copyright @copyright{} 2002, 2003, 2004, 2005  Oleg A. Khlybov
+Copyright @copyright{} 2002-2017 Oleg A. Khlybov
 @end copying
 
 @titlepage
