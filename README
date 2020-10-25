@@ -1,5 +1,5 @@
-MenuMaker is a tool written in Python which scans the system for installed
-programs and generates menus for various X window managers.
+Menu Maker is 100% Python heuristics-driven menu generator for a number of X Window Managers and desktop environments.
+It features large knowledge base of known programs, powerful and flexible search algorithms, persistence of menus across several WMs.
 
 Installation:
 
