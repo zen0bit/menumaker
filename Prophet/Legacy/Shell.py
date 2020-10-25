@@ -191,3 +191,8 @@ class xwc(_App, _X11App):
     name = "XWinCommander"
     comment = "X file manager"
     keywords = KwS(FileManager, Shell)
+
+class sakura(_Terminal):
+    name = "Sakura"
+    comment = "X terminal emulator"
+    keywords = KwS(TerminalEmulator)    
